@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/Image_Photo_Shop.egg-info/PKG-INFO
+src/Image_Photo_Shop.egg-info/SOURCES.txt
+src/Image_Photo_Shop.egg-info/dependency_links.txt
+src/Image_Photo_Shop.egg-info/not-zip-safe
+src/Image_Photo_Shop.egg-info/top_level.txt
